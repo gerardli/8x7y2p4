@@ -87,3 +87,54 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 http://192.168.31.41:35455/youtube/WTP43O2FZMo?quality=1080
 #EXTINF:-1 tvg-name="CNBC",CNBC3
 http://192.168.31.41:35455/youtube/JRfC0Eqet4Q?quality=1080
+#EXTINF:28 group-title="AKTV" tvg-id="aktv/null-3" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰中文
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+
+#EXTINF:29 group-title="AKTV" tvg-id="aktv/null-4" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰資訊
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+
+#EXTINF:30 group-title="AKTV" tvg-id="aktv/null-5" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰香港
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+
+#EXTINF:25 group-title="AKTV" tvg-id="aktv/null-17" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 翡翠综合台(北美)
+http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+#EXTINF:23 group-title="AKTV" tvg-id="aktv/null" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 翡翠台
+http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+#EXTINF:16 group-title="AKTV" tvg-id="aktv/null-9" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 寰宇新聞台
+http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+
+#EXTINF:17 group-title="AKTV" tvg-id="aktv/null-20" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 无线新闻台(北美)
+http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
+
+#EXTINF:18 group-title="AKTV" tvg-id="aktv/null-19" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 明珠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+
+#EXTINF:19 group-title="AKTV" tvg-id="aktv/null-2" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 明珠台
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+
+#EXTINF:20 group-title="AKTV" tvg-id="aktv/null-1" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 無線新聞台
+http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+
+#EXTINF:6 group-title="AKTV" tvg-id="aktv/tvbs" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", TVBS
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+
+#EXTINF:7 group-title="AKTV" tvg-id="aktv/tvbs-1" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", TVBS-新聞台
+http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+
+#EXTINF:8 group-title="AKTV" tvg-id="aktv/tvn" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", tvN
+http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+
+#EXTINF:9 group-title="AKTV" tvg-id="aktv/null-13" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 三立綜合台
+http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+
+#EXTINF:10 group-title="AKTV" tvg-id="aktv/null-14" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 三立財經新聞
+http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
+
+#EXTINF:11 group-title="AKTV" tvg-id="aktv/null-12" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 中天亞洲台
+http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+
+#EXTINF:12 group-title="AKTV" tvg-id="aktv/null-8" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 中天新聞台
+http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+
+#EXTINF:13 group-title="AKTV" tvg-id="aktv/null-10" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 中視
+http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
